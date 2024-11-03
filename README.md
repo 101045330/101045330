@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @101045330
 - 👀 I’m interested in ...winter cycling
-- 🌱 I’m currently learning ...front end development
+- 🌱 I’m currently researching about ...front end design & development
 - 💞️ I’m looking to collaborate on ...mlops
 - 📫 How to reach me ...school email
 - 😄 Pronouns: ...he
